@@ -1,4 +1,4 @@
-# FarmbeatsAPI 
+# Azure-Farmbeats-CPP-Sample
 ----
 ### 目录
 - [Farmbeatsapi](./Farmbeatsapi) - DLL工程
