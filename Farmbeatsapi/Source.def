@@ -1,0 +1,4 @@
+LIBRARY
+EXPORTS
+GetFarmbeatsapi @1
+DestoryFarmbeatsapi @2
